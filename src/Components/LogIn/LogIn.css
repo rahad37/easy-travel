@@ -1,0 +1,70 @@
+.nice input{
+    width: 100%;
+    padding: 5px;
+}
+.nice{
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    border: 2px solid gray;
+    padding: 50px;
+    margin-top: 0px;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    background: rgb(231, 139, 123);
+}
+.fine{
+    background: linear-gradient(rgba(29, 28, 28, 0.7),rgba(29, 28, 28, 0.7)), url(../../images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 30px 20px;
+    padding-bottom: 150px;
+    padding-top: 50px;
+ 
+}
+.fine h1{
+    color: white;
+    text-align: center;
+}
+.fine button{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 20px;
+    /* background: rgb(66 103 178); */
+}
+.nice span{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.nice img{
+    width: 25px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    margin-top: -30px;
+    border-radius: 10px;
+}
+.head ul{
+    margin-right: 150px;
+    margin-top: 15px;
+}
+.head ul li{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.head h1{
+    margin-left: 30px;
+}
+
+

@@ -1,0 +1,18 @@
+.design{
+    background: url(../../images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 550px;
+    width: 100%;
+}
+.design ul{
+    text-align: right;
+    margin-right: 200px;
+    padding-top: 15px;
+}
+.design ul li{
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
